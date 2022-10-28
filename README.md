@@ -36,6 +36,8 @@
 ![](./Images/NVIDIA-Xavier.png)
 
 ## Physical Connection
+* Use the USB Type-A cable to connect the Linux host computer to the front USB
+Type-C connector on the NVIDIA Xavier.
 
 ![](./Images/NVIDIA-Xavier-Connect-PC.png)
 

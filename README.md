@@ -42,6 +42,7 @@ cp sdkmanager_1.8.4-10431_amd64.deb ~
 【 Step 2 】 Install NVIDIA SDK Manager
 * Enter the following command in the HOST terminal.
 ```
+cd ~
 sudo apt update
 sudo apt install -y ./sdkmanager_1.8.4-10431_amd64.deb
 ```

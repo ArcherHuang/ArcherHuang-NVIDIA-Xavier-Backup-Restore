@@ -36,7 +36,7 @@
 ![](./Images/NVIDIA-Xavier.png)
 
 ## Physical Connection
-* Use the `USB Type-A` cable to connect the `Ubuntu HOST PC` to the `front USB Type-C` connector on the `NVIDIA Xavier`.
+* Use the `USB Type-A` cable to connect the `Ubuntu HOST PC` to the `front USB Type-C` connector on the `NVIDIA® Jetson AGX Xavier™`.
 
 ![](./Images/NVIDIA-Xavier-Connect-PC.png)
 

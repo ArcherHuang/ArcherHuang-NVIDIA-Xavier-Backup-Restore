@@ -155,6 +155,7 @@ sudo ./flash.sh -r -k APP -G backup.img jetson-xavier mmcblk0p1
 ```
 
 【 Step 6 】 Rename `backup.img` to `system.img` in `~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra`
+* System backup succeeded.
 
 ## Restore Custom Image to NVIDIA Jetson AGX Xavier
 【 Step 1 】Copy `system.img` to `~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra/bootloader`

@@ -187,6 +187,8 @@ cd ~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_T
 sudo ./flash.sh -r jetson-xavier mmcblk0p1
 ```
 
+【 Step 7 】Please reboot your NVIDIA® Jetson AGX Xavier™
+
 ## License
 This sample is licensed under the [MIT](./LICENSE) license.
 

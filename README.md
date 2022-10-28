@@ -122,6 +122,7 @@ sdkmanager
 ![](./Images/sdkmanager-19.png)
 
 * Finish
+  * Click `FINISH AND EXIT`
 ![](./Images/sdkmanager-20.png)
 
 ## Backup the image of Jetson AGX Xavier

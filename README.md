@@ -12,13 +12,20 @@
 
 ## Prerequisites
 * Make sure you have all of the following prerequisites：
-  * Host computer with [Ubuntu 18.04 LTS Desktop](https://releases.ubuntu.com/18.04/) - 1 pc
-  * [NVIDIA® Jetson AGX Xavier™](https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit) ( Internet Connection ) - 1 pc
-  * AC Adapter for NVIDIA® Jetson AGX Xavier™ - 1 pc
-  * USB Type-C to Type-A Cable for NVIDIA® Jetson AGX Xavier™ & PC - 1 pc
-  * HDMI Monitor for NVIDIA® Jetson AGX Xavier™ & PC - 2 pcs
-  * HDMI Cable for NVIDIA® Jetson AGX Xavier™ & PC - 2 pcs
-  * USB keyboard & mouse for NVIDIA® Jetson AGX Xavier™ & PC - 2 pcs
+  * Hardware
+    * Host computer with [Ubuntu 18.04 LTS Desktop](https://releases.ubuntu.com/18.04/) - 1 pc
+    * [NVIDIA® Jetson AGX Xavier™](https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit) ( Internet Connection ) - 1 pc
+    * AC Adapter for NVIDIA® Jetson AGX Xavier™ - 1 pc
+    * USB Type-C to Type-A Cable for NVIDIA® Jetson AGX Xavier™ & PC - 1 pc
+    * HDMI Monitor for NVIDIA® Jetson AGX Xavier™ & PC - 2 pcs
+    * HDMI Cable for NVIDIA® Jetson AGX Xavier™ & PC - 2 pcs
+    * USB keyboard & mouse for NVIDIA® Jetson AGX Xavier™ & PC - 2 pcs
+  * Software
+    ```
+    ├── sdkmanager_1.8.4-10431_amd64.deb
+    ├── system.img
+    └── ubuntu-18.04.6-desktop-amd64.iso
+    ```
 
 |           Device           | Ubuntu 18.04 LTS | AC Adapter | USB Type-C to Type-A Cable | HDMI Monitor | HDMI Cable | USB keyboard & mouse |
 |:--------------------------:|:----------------:|:----------:|:--------------------------:|:------------:|:----------:|:--------------------:|

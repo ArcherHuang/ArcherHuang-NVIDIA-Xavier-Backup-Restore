@@ -104,10 +104,8 @@ sdkmanager
 * Click `OK`
 ![](./Images/sdkmanager-16.png)
 
-* sdkmanager-17
+* Wait for the request to process
 ![](./Images/sdkmanager-17.png)
-
-* sdkmanager-18
 ![](./Images/sdkmanager-18.png)
 
 * Click `Skip`

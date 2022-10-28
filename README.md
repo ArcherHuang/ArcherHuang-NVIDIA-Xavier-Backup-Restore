@@ -39,7 +39,7 @@
 
 ![](./Images/NVIDIA-Xavier-Connect-PC.png)
 
-## Ubuntu HOST PC Setup Process
+## Ubuntu HOST PC Setup Process - Install NVIDIA SDK Manager
 【 Step 1 】 Change the working directory in the HOST terminal to the `sdkmanager_1.8.4-10431_amd64.deb` file
 
 【 Step 2 】 Copy `sdkmanager_1.8.4-10431_amd64.deb` to `~`

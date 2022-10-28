@@ -130,9 +130,9 @@ lsusb
 ![](./Images/lsusb.png)
 
 【 Step 4 】 Changing to another directory
-* Enter the following command in the HOST terminal. If command executed successfully, you'll see the `backup.img` and `backup.img.raw` in `~/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra`
+* Enter the following command in the HOST terminal. If command executed successfully, you'll see the `backup.img` and `backup.img.raw` in `~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra`
 ```
-cd ~/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra
+cd ~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra
 ```
 
 【 Step 5 】 Create Custom Image
@@ -141,10 +141,10 @@ cd ~/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Teg
 sudo ./flash.sh -r -k APP -G backup.img jetson-xavier mmcblk0p1
 ```
 
-【 Step 6 】 Rename `backup.img` to `system.img` in `~/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra`
+【 Step 6 】 Rename `backup.img` to `system.img` in `~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra`
 
 ## Restore Custom Image to NVIDIA Jetson AGX Xavier
-【 Step 1 】Copy `system.img` to `~/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra/bootloader`
+【 Step 1 】Copy `system.img` to `~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra/bootloader`
 
 【 Step 2 】Connect Ubuntu PC to NVIDIA Jetson AGX Xavier
 * Ref [Physical Connection](#physical-connection)

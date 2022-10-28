@@ -81,7 +81,7 @@ sdkmanager
 * Click `OK`
 ![](./Images/sdkmanager-10.png)
 
-* Select 
+* Select Items
   * `PRODUCT CATEGORY` field
     * Select `Jetson`
   * `Target Hardware` field 

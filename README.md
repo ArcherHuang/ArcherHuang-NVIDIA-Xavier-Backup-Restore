@@ -156,8 +156,8 @@ cd ~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_T
 sudo ./flash.sh -r -k APP -G backup.img jetson-xavier mmcblk0p1
 ```
 
-【 Step 6 】 Rename `backup.img` to `system.img` in `~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra`
-* System backup succeeded.
+【 Step 6 】 System backup succeeded
+* Rename `backup.img` to `system.img` in `~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra`.
 
 ## Restore Custom Image to NVIDIA Jetson AGX Xavier
 【 Step 1 】Copy `system.img` to `~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra/bootloader`
@@ -190,8 +190,8 @@ cd ~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_T
 sudo ./flash.sh -r jetson-xavier mmcblk0p1
 ```
 
-【 Step 7 】Please reboot your NVIDIA® Jetson AGX Xavier™
-* System restore succeeded.
+【 Step 7 】System restore succeeded
+* Please reboot your NVIDIA® Jetson AGX Xavier™.
 
 ## License
 This sample is licensed under the [MIT](./LICENSE) license.

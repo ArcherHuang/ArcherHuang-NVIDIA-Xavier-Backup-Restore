@@ -132,6 +132,8 @@ sdkmanager
 【 Step 2 】 Change NVIDIA® Jetson AGX Xavier™ Mode
 * Press and Hold the `Power Button` and `Force Recovery Button`, now Wait for `5 second` and Release the `Power Button` and `Force Recovery Button`.
 
+![](./Images/NVIDIA-Xavier-Bottom-View.png)
+
 【 Step 3 】 Check Connect Status
 * Enter the following command in the HOST terminal. If connected, you'll see the device name listed as a `NVidia Corp.`
 ```

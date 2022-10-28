@@ -102,6 +102,7 @@ sdkmanager
 ![](./Images/sdkmanager-11.png)
 
 * In progress
+  * Choose only `Jetson OS`
 ![](./Images/sdkmanager-12.png)
 ![](./Images/sdkmanager-13.png)
 

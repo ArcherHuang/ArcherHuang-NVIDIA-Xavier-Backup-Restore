@@ -63,13 +63,13 @@ sdkmanager
 * Input `Password` or Click `More Login Options`
 ![](./Images/sdkmanager-4.png)
 
-* Click `Log in with Google`
+* Click `Log in with Google` ( Authenticate Using Google )
 ![](./Images/sdkmanager-5.png)
 
-* Input `Google Account`
+* Input `Google Account` ( Authenticate Using Google )
 ![](./Images/sdkmanager-6.png)
 
-* Input `Authenticator Code`
+* Input `Authenticator Code` ( Authenticate Using Google )
 ![](./Images/sdkmanager-7.png)
 
 * Login Success

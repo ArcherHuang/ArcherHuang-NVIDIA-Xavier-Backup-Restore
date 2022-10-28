@@ -33,13 +33,15 @@
 ![](./Images/NVIDIA-Xavier-Connect-PC.png)
 
 ## Ubuntu HOST PC Setup Process
-【 Step 1 】 Copy `sdkmanager_1.8.4-10431_amd64.deb` to `~`
+【 Step 1 】 Change the working directory in the HOST terminal to the `sdkmanager_1.8.4-10431_amd64.deb` file
+
+【 Step 2 】 Copy `sdkmanager_1.8.4-10431_amd64.deb` to `~`
 * Enter the following command in the HOST terminal.
 ```
 cp sdkmanager_1.8.4-10431_amd64.deb ~
 ```
 
-【 Step 2 】 Install NVIDIA SDK Manager
+【 Step 3 】 Install NVIDIA SDK Manager
 * Enter the following command in the HOST terminal.
 ```
 cd ~
@@ -47,13 +49,13 @@ sudo apt update
 sudo apt install -y ./sdkmanager_1.8.4-10431_amd64.deb
 ```
 
-【 Step 3 】 Open NVIDIA SDK Manager
+【 Step 4 】 Open NVIDIA SDK Manager
 * Enter the following command in the HOST terminal.
 ```
 sdkmanager
 ```
 
-【 Step 4 】Install Jetson OS
+【 Step 5 】Install Jetson OS
 * Click `LOGIN` Button
 ![](./Images/sdkmanager-1.png)
 ![](./Images/sdkmanager-2.png)

@@ -165,7 +165,7 @@ lsusb
 【 Step 5 】Changing to another directory
 * Enter the following command in the HOST terminal.
 ```
-cd ~/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra
+cd ~/nvidia/nvidia_sdk/JetPack_4.6.1_Linux_JETSON_AGX_XAVIER_TARGETS/Linux_for_Tegra
 ```
 
 【 Step 6 】Restore custom image

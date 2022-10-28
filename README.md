@@ -91,7 +91,7 @@ sdkmanager
   * When the input is complete, please click `CONTINUE` button.
 ![](./Images/sdkmanager-11.png)
 
-* Wait for the request to process
+* In progress
 ![](./Images/sdkmanager-12.png)
 ![](./Images/sdkmanager-13.png)
 

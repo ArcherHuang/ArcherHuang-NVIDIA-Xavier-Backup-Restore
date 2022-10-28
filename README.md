@@ -188,6 +188,7 @@ sudo ./flash.sh -r jetson-xavier mmcblk0p1
 ```
 
 【 Step 7 】Please reboot your NVIDIA® Jetson AGX Xavier™
+* System restore succeeded.
 
 ## License
 This sample is licensed under the [MIT](./LICENSE) license.

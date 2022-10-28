@@ -4,7 +4,7 @@
 - [Prerequisites](#prerequisites)
 - [NVIDIA Xavier - front view ( left ) & rear view ( right )](#nvidia-xavier---front-view--left---rear-view--right-)
 - [Physical Connection](#physical-connection)
-- [Ubuntu HOST PC Setup Process](#ubuntu-host-pc-setup-process)
+- [Ubuntu HOST PC Setup Process - Install NVIDIA SDK Manager](#ubuntu-host-pc-setup-process---install-nvidia-sdk-manager)
 - [Backup the image of Jetson AGX Xavier](#backup-the-image-of-jetson-agx-xavier)
 - [Restore Custom Image to NVIDIA Jetson AGX Xavier](#restore-custom-image-to-nvidia-jetson-agx-xavier)
 - [License](#license)

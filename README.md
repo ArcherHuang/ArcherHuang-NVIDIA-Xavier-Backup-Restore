@@ -1,4 +1,4 @@
-# NVIDIA Xavier Backup & Restore
+# NVIDIA® Jetson AGX Xavier™ Backup & Restore
 
 ## Contents
 - [Prerequisites](#prerequisites)

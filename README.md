@@ -84,8 +84,8 @@ sdkmanager
 * Select Items
   * `PRODUCT CATEGORY` field
     * Select `Jetson`
-  * `Target Hardware` field 
-    * Select `Jetson AGX XAVIER modules`
+  * `HARDWARE CONFIGURATION` field 
+    * Select `Target Hardware Jetson AGX XAVIER modules`
   * `TARGET OPERATING SYSTEM` field
     * Select `Linux JetPack 4.6.1`
   * When the input is complete, please click `CONTINUE` button.

@@ -13,8 +13,8 @@
 ## Prerequisites
 * Make sure you have all of the following prerequisites：
   * Hardware
-    * Host computer with [Ubuntu 18.04 LTS Desktop](https://releases.ubuntu.com/18.04/) - 1 pc
-    * [NVIDIA® Jetson AGX Xavier™](https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit) ( Internet Connection ) - 1 pc
+    * Host computer with [Ubuntu 18.04 LTS Desktop](https://releases.ubuntu.com/18.04/) ( Internet Connection ) - 1 pc
+    * [NVIDIA® Jetson AGX Xavier™](https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit) - 1 pc
     * AC Adapter for NVIDIA® Jetson AGX Xavier™ - 1 pc
     * USB Type-C to Type-A Cable for NVIDIA® Jetson AGX Xavier™ & PC - 1 pc
     * HDMI Monitor for NVIDIA® Jetson AGX Xavier™ & PC - 2 pcs
